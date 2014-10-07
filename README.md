@@ -1,4 +1,1 @@
-datasciencecoursera
-===================
-
-A repo for Data Science course on Coursera
+The Data Science project course on Coursera
